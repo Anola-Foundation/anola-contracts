@@ -1,2 +1,2 @@
-# seaway-contracts
-An Opinionated token starter template by Seaway.
+# anola-contracts
+An Opinionated token starter template by Anola.
